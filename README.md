@@ -1,4 +1,4 @@
-# MandelbrotSetRenderer
+# Mandelbrot Set Renderer
 Program that displays a picture of the Mandelbrot Set based on the user's input of coordinates ((x1, y1) and (x2, y2)), and if they want the picture in black and white or color.
 
 # Black and White Photo
